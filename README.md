@@ -1,3 +1,5 @@
-# 那些不可思议的图库
+<div align=center>
+    <img src="https://cdn.jsdelivr.net/gh/zaoyifan/Gallery/Note/20200628111945.png">
+</div>
 
-> 你就不能让自己的心情更像个小孩一样纯真吗？
+<center><h2>那些不可思议的笔记</h2></center>
